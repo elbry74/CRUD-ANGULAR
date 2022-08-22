@@ -1,0 +1,32 @@
+{
+  "productList": [
+    {
+      "productName": "tv",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": "12",
+      "comment": "d",
+      "date": "2022-08-02T22:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "elbry",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": "10000000",
+      "comment": "ultras ahlawy",
+      "date": "2022-09-29T22:00:00.000Z",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
